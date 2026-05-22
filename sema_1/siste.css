@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    margin: 0;
+}
+
+#menu{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    gap: 10px;
+    padding: 30px;
+    border: 5px black solid;
+    width: 80vh;
+}
+h2{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
